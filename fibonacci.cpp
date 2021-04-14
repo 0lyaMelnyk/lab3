@@ -9,6 +9,6 @@ int fib(int n)
 
 int main ()
 {                                                                                                                                                                       
-  printf("\n%d", fib(42));
+  printf("\n%d", fib(100000000));
   return 0;
 } 
