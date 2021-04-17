@@ -1,7 +1,7 @@
 #!/bin/bash
 C='\e[94m'
 NC='\e[0m'
-path="/home/grid/testbed/tb156/"
+path="/home/grid/testbed/tb140/"
 cd $path
 flagsForCmplrOptmztion=(O0 O1 O2 O3 Os Ofast)
 i=0
